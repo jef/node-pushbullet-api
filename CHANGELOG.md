@@ -1,5 +1,9 @@
 ## Changelog
 
+### 2.4.1
+
+- Update dependencies to fix vulnerbilites.
+
 ### 2.4.0
 
 - Reconnect to websocket stream if disconnected.
