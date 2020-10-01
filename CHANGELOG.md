@@ -1,5 +1,9 @@
 ## Changelog
 
+### 2.4.2
+
+- Bump version for duplicated packages.
+
 ### 2.4.1
 
 - Update dependencies to fix vulnerbilites.

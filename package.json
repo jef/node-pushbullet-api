@@ -1,6 +1,6 @@
 {
   "name": "@hijef/pushbullet",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "description": "Use PushBullets REST API",
   "main": "index.js",
   "scripts": {
