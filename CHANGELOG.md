@@ -1,5 +1,9 @@
 ## Changelog
 
+### 2.4.3
+
+- Change package name 
+
 ### 2.4.2
 
 - Bump version for duplicated packages.
